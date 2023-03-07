@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;    
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+#user-result {
+    background-color: red;
+}
